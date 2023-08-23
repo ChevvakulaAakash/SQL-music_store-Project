@@ -1,6 +1,6 @@
 # SQL-music_store-Project
 * digital music store SQL project to analyze online music store data..
-* in this we get how to analyze the music playlist database
+* in this we get how to analyze the music store database from various countries and cities 
 * we can examine the dataset with SQL and help the store understand its business growth by solving the questions listed by the music store clients
 * simplest way to solve the questions by simplest query possible
 * analysed the top 3 values of total invoice
